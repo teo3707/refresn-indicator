@@ -40,8 +40,8 @@ new RefreshIndicator(dom, {
 
 # demo
 参照 src/app.js + index.html
-![示例图片](./images/demo.jpg)
+![示例图片](/images/demo.jpg)
 
 ### 请作者喝一杯☕️
-![微信](./images/w.jpg)
-![支付宝](./images/z.jpg)
+![微信](/images/w.jpg)
+![支付宝](/images/z.jpg)
